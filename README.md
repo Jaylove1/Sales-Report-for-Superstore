@@ -32,6 +32,7 @@ Customer Dashboard
 •	When I am done with modelling, I created some measures and column with Dax to make my visualization more fascinating and insightful.
 
 ----
+
 # MY FINDINGS/OBSERVATIONS 
 ----
 Sales Dashboard 
@@ -51,7 +52,9 @@ Customer Dashboard
 •	The customer Dashboard shows that during the ending time of the year the store welcomes more customers and thereby increasing sales during the periods.
 •	Sean Miller is the customer with highest sales over the periods.
 ----
+
 # RECOMMEDATION 
+----
 •	The above findings and observation can be used for inventory control of the goods in store and also it can help in rewarding both bonus to sales team that perform better and discount to customers that bought more sales.
 •	The organic sales team can be given bonus for their exceptional performance 
 •	The region with higher sales should be supplied with more stock, like the western region 
