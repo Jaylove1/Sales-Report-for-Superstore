@@ -1,5 +1,7 @@
 # PROJECT NAME: SUPERSTORE SALES REPORT
 ----
+The visuals can be viewed from this link https://app.powerbi.com/links/5456cI843-?ctid=49623763-d023-4834-b2e5-6dfa61dfdf74&pbi_source=linkShare
+----
 # PROJECT OBJECTIVE:
 ----
 
