@@ -26,6 +26,7 @@ Customer Dashboard
 
 # DATA SOURCING 
 ----
+https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Financial%20Sample.xlsx
 
 # DATA TRANSFORMATION 
 ----
