@@ -72,3 +72,4 @@ Consumer goods should be made available all the time.
 The supply of canon 2200 camera under technology category should always be available because it generates more income for the store. 
 Binders from office equipment category should be made available because there is high demand for the product.
 The consistent customers with higher sales should be rewarded at the end of each year and discount should be offer to customers with higher sales.
+FEEL FREE TO INTERACT WITH THE VISUALS TO GAIN MORE INSIGHT.
