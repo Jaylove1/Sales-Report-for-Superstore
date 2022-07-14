@@ -6,26 +6,26 @@ The visuals can be viewed from this link https://app.powerbi.com/links/5456cI843
 ----
 
 Sales Dashboard
-----
+-----
 To know the most performing sales team
 To know the region with more sales 
 To know category of product that have highest sales and profit
 To know the months sales always increase.
 
 Product Dashboard
-----
+-----
 It shows product with highest sales and lowest sales 
 It also shows sub-category with more sales
 It shows total product in stock and sub-category the products are group to.
 
 
 Customer Dashboard
-----
+-----
 •	It shows count of customer that enter the store per month and to know month with highest customers 
 •	 It shows customer with highest sales.
 
 # DATA SOURCING 
-----
+-----
 https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Financial%20Sample.xlsx
 
 # DATA TRANSFORMATION 
